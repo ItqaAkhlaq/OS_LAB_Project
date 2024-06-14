@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1718172455 source:c:\dsa by murshad\user-interface\jp3\main.cpp
+	<windows.h>
+	<iostream>
+	<sstream>
+	<cstring>
+	<stdlib.h>
+
