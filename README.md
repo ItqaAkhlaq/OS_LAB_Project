@@ -1,23 +1,22 @@
-
+<pre>
 <h2> Process Scheduling Simulator </h2>
 <h3>Overview</h3><br>
 The Process Scheduling Simulator is a Windows-based graphical application in C++ designed to simulate various process scheduling algorithms. Users can input process details, select a scheduling algorithm, and view simulation results, including Gantt charts, average waiting times, and turnaround times.
 <h2>Group Members </h2>
-•	Roll No#S095: Jawad Ahmed <br>
-•	Roll No#R024: Itqa Akhlaq<br>
-•	Roll No#R002: Amna Zafar<br>
+	• Roll No#S095: Jawad Ahmed <br>
+	• Roll No#R024: Itqa Akhlaq<br>
+	• Roll No#R002: Amna Zafar<br>
 <h2>Program :</h2>
-BSIT 4th Regular
+	BSIT 4th Regular
 <h2>Features </h2>
 1.	Add Processes: <br>
-<li>	Users can input process details, including arrival time, burst time, and priority. </li>
+	<li>Users can input process details, including arrival time, burst time, and priority. </li>
 2.	Set Time Quantum (for Round Robin): <br>
 	<li>Specify the time quantum for the Round Robin scheduling algorithm. </li>
-3.	Simulate Scheduling Algorithms: <br>
-<li>	Supports the following algorithms: </li>
+3.	Simulates following Scheduling Algorithms: <br>
 	<li>First-Come, First-Served (FCFS)</li>
 	<li>Round Robin (RR)</li>
-<li>Shortest Job Next (SJN) </li>
+	<li>Shortest Job Next (SJN) </li>
 	<li>Shortest Remaining Job First (SRJF)</li>
 	<li>Priority Scheduling</li>
 4.	Visualize Gantt Charts:<br> 
@@ -43,14 +42,14 @@ BSIT 4th Regular
 1.	Launch the Application: <br>
 	Double-click ProcessScheduler.exe or run it from the command line. <br>
 2.	Add Processes: <br>
-<ul><li>	Enter arrival time, burst time, and priority. </li>
+	<ul><li>Enter arrival time, burst time, and priority. </li>
 	<li>Click “Add Process” to add a process to the scheduler. </li>
-</ul>
+	</ul>
 3.	Set Time Quantum (for Round Robin): <br>
-4.Specify the time quantum. Simulate a Scheduling Algorithm:<br>
-<ul>
-<li>	Click the button for the desired scheduling algorithm (e.g., "FCFS", "Round Robin").</li>
- <li>	View the results, including Gantt charts and statistics, in the message boxes.</li>
+4.	Specify the time quantum. Simulate a Scheduling Algorithm:<br>
+	<ul>
+	<li>Click the button for the desired scheduling algorithm (e.g., "FCFS", "Round Robin").</li>
+ 	<li>View the results, including Gantt charts and statistics, in the message boxes.</li>
 	</ul>
 <h2>Input Validation </h2><br>
 •	Ensure all input fields contain valid positive integers. <br>
@@ -70,3 +69,4 @@ BSIT 4th Regular
 5.	Open a pull request. <br>
 <h2>Acknowledgements </h2>
 •	Inspiration and guidance from various online resources on process scheduling algorithms and Win32 API programming. <br>
+</pre>
