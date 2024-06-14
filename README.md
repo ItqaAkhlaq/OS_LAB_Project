@@ -13,12 +13,12 @@ The Process Scheduling Simulator is a Windows-based graphical application in C++
 	<li>Users can input process details, including arrival time, burst time, and priority. </li>
 2.	Set Time Quantum (for Round Robin): <br>
 	<li>Specify the time quantum for the Round Robin scheduling algorithm. </li>
-3.	Simulates following Scheduling Algorithms: <br><pre>
+3.	Simulates following Scheduling Algorithms: <br>
 	<li>First-Come, First-Served (FCFS)</li>
 	<li>Round Robin (RR)</li>
 	<li>Shortest Job Next (SJN) </li>
 	<li>Shortest Remaining Job First (SRJF)</li>
-	<li>Priority Scheduling</li></pre>
+	<li>Priority Scheduling</li>
 4.	Visualize Gantt Charts:<br> 
 	<li>Display the scheduling process using Gantt charts.</li>
 5.	View Statistics: <br>
