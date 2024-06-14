@@ -2,13 +2,13 @@
 <h2> Process Scheduling Simulator </h2><br>
 Overview <br>
 The Process Scheduling Simulator is a Windows-based graphical application in C++ designed to simulate various process scheduling algorithms. Users can input process details, select a scheduling algorithm, and view simulation results, including Gantt charts, average waiting times, and turnaround times.
-Group Members <br>
+<h2>Group Members </h2>
 •	Roll No#S095: Jawad Ahmed <br>
 •	Roll No#R024: Itqa Akhlaq<br>
 •	Roll No#R002: Amna Zafar<br>
-Program<br>
-BSIT 4th Regular <br>
-<h2>Features </h2><br>
+<h2>Program : 
+BSIT 4th Regular </h2>
+<h2>Features </h2>
 1.	Add Processes: <br>
 o	Users can input process details, including arrival time, burst time, and priority. <br>
 2.	Set Time Quantum (for Round Robin): <br>
