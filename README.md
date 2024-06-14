@@ -1,13 +1,13 @@
 
 <h2> Process Scheduling Simulator </h2>
-Overview <br>
+<h3>Overview</h3><br>
 The Process Scheduling Simulator is a Windows-based graphical application in C++ designed to simulate various process scheduling algorithms. Users can input process details, select a scheduling algorithm, and view simulation results, including Gantt charts, average waiting times, and turnaround times.
 <h2>Group Members </h2>
 •	Roll No#S095: Jawad Ahmed <br>
 •	Roll No#R024: Itqa Akhlaq<br>
 •	Roll No#R002: Amna Zafar<br>
-<h2>Program : 
-BSIT 4th Regular </h2>
+<h2>Program :</h2>
+BSIT 4th Regular
 <h2>Features </h2>
 1.	Add Processes: <br>
 <li>	Users can input process details, including arrival time, burst time, and priority. </li>
@@ -30,14 +30,14 @@ BSIT 4th Regular </h2>
 2.	C++ Compiler: <br>
 	Use a C++ compiler with Win32 API support (e.g., MinGW, MSVC, GNU Compiler). <br> If you don't gdi32 library in your project file add it. <br>
 <h2>Building the Project </h2> <br>
-1.	Clone the Repository: <br>
+1.	Clone the Repository <br>
 2.	git clone https://github.com/ItqaAkhlaq/OS_LAB_Project.git <br>
-3.	Navigate to the Project Directory: <br>
+3.	Navigate to the Project Directory <br>
 4.	cd process-scheduling-simulator <br>
-5.	Compile the Code: <br>
+5.	Compile the Code <br>
 6.	g++ -o ProcessScheduler main.cpp -mwindows<br>
   Replace g++ with your compiler if different.<br>
-7.	Run the Executable:<br>
+7.	Run the Executable<br>
 8.	ProcessScheduler.exe<br>
 <h2>Usage  </h2> <br>
 1.	Launch the Application: <br>
