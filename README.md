@@ -10,7 +10,7 @@ The Process Scheduling Simulator is a Windows-based graphical application in C++
 	BSIT 4th Regular
 <h2>Features </h2>
 1.	Add Processes:
-	&nbsp;<li>Users can input process details, including arrival time, burst time, and priority. </li>
+	&nbsp;&nbsp;<li>Users can input process details, including arrival time, burst time, and priority. </li>
 2.	Set Time Quantum (for Round Robin): <br>
 	&nbsp;<li>Specify the time quantum for the Round Robin scheduling algorithm. </li>
 3.	Simulates following Scheduling Algorithms: <br>
